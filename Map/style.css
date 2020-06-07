@@ -1,0 +1,11 @@
+.poke-card {
+  width: fit-content;
+}
+.poke-header {
+  display: flex;
+  justify-content: center;
+  padding: 1.5em 0px 0em 0px;
+  background-color: #e53e3e;
+  color: white;
+  border-bottom: 1em solid #9d2a2a;
+}
